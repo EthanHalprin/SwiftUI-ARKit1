@@ -16,6 +16,7 @@
 		AAAEFAA028883744009161AC /* SwiftUI_ARKit1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAEFA9F28883744009161AC /* SwiftUI_ARKit1UITestsLaunchTests.swift */; };
 		AAAEFAAD2888449C009161AC /* Resources.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAEFAAC2888449C009161AC /* Resources.swift */; };
 		AAAEFAAF288844AA009161AC /* Materials.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAEFAAE288844AA009161AC /* Materials.swift */; };
+		AAAEFAB228885246009161AC /* file_example_MP4_480_1_5MG.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AAAEFAB128885246009161AC /* file_example_MP4_480_1_5MG.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		AAAEFA9F28883744009161AC /* SwiftUI_ARKit1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ARKit1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AAAEFAAC2888449C009161AC /* Resources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resources.swift; sourceTree = "<group>"; };
 		AAAEFAAE288844AA009161AC /* Materials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materials.swift; sourceTree = "<group>"; };
+		AAAEFAB128885246009161AC /* file_example_MP4_480_1_5MG.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = file_example_MP4_480_1_5MG.mp4; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				AAAEFA8228883742009161AC /* ContentView.swift */,
 				AAAEFAAC2888449C009161AC /* Resources.swift */,
 				AAAEFAAE288844AA009161AC /* Materials.swift */,
+				AAAEFAB128885246009161AC /* file_example_MP4_480_1_5MG.mp4 */,
 				AAAEFA8628883744009161AC /* Assets.xcassets */,
 				AAAEFA8828883744009161AC /* Preview Content */,
 			);
@@ -238,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AAAEFA8A28883744009161AC /* Preview Assets.xcassets in Resources */,
+				AAAEFAB228885246009161AC /* file_example_MP4_480_1_5MG.mp4 in Resources */,
 				AAAEFA8728883744009161AC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
