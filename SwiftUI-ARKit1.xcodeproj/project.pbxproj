@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA1FC5F92891241600FABAA6 /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1FC5F82891241600FABAA6 /* ARViewContainer.swift */; };
+		AA1FC5FB289124B000FABAA6 /* ARViewContainerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA1FC5FA289124B000FABAA6 /* ARViewContainerViewModel.swift */; };
 		AAAEFA8128883742009161AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAEFA8028883742009161AC /* AppDelegate.swift */; };
 		AAAEFA8328883742009161AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAEFA8228883742009161AC /* ContentView.swift */; };
 		AAAEFA8728883744009161AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAAEFA8628883744009161AC /* Assets.xcassets */; };
@@ -37,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AA1FC5F82891241600FABAA6 /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		AA1FC5FA289124B000FABAA6 /* ARViewContainerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainerViewModel.swift; sourceTree = "<group>"; };
 		AAAEFA7D28883742009161AC /* SwiftUI-ARKit1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-ARKit1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAAEFA8028883742009161AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AAAEFA8228883742009161AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -102,6 +106,8 @@
 			children = (
 				AAAEFA8028883742009161AC /* AppDelegate.swift */,
 				AAAEFA8228883742009161AC /* ContentView.swift */,
+				AA1FC5F82891241600FABAA6 /* ARViewContainer.swift */,
+				AA1FC5FA289124B000FABAA6 /* ARViewContainerViewModel.swift */,
 				AAAEFAAC2888449C009161AC /* Resources.swift */,
 				AAAEFAAE288844AA009161AC /* Materials.swift */,
 				AAAEFAB128885246009161AC /* file_example_MP4_480_1_5MG.mp4 */,
@@ -269,8 +275,10 @@
 			files = (
 				AAAEFAAF288844AA009161AC /* Materials.swift in Sources */,
 				AAAEFAAD2888449C009161AC /* Resources.swift in Sources */,
+				AA1FC5FB289124B000FABAA6 /* ARViewContainerViewModel.swift in Sources */,
 				AAAEFA8328883742009161AC /* ContentView.swift in Sources */,
 				AAAEFA8128883742009161AC /* AppDelegate.swift in Sources */,
+				AA1FC5F92891241600FABAA6 /* ARViewContainer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
